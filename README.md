@@ -1,5 +1,8 @@
-## Hi there 👋  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jamescorino8=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+## About Me
+* 📈 4+ years of programming experience
+* 📚 Studying Computer science, class of 2028
+* 💾 I use MacOS and Arch
+* 🌱 I'm currently learning React.js
 
 <!--
 **Jamescorino8/jamescorino8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
