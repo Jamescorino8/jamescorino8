@@ -1,6 +1,6 @@
 ## About Me
 * 📈 4+ years of programming experience
-* 📚 Studying Computer science, graduating 2028
+* 📚 Studying Computer Science, graduating 2028
 * 💾 I use MacOS and Arch
 * 🔭 I'm currently working on a portfolio site
 * 🌱 I'm currently learning front-end web develeopment
