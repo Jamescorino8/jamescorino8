@@ -2,7 +2,6 @@
 * 📈 4+ years of programming experience
 * 📚 Studying Computer Science, graduating 2028
 * 💾 I use MacOS and Arch
-* 🔭 I'm currently working on a several projects
 
 <!--
 **Jamescorino8/jamescorino8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
