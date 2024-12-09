@@ -1,5 +1,5 @@
 ## About Me
-* 📈 4+ years of programming experience
+* 📈 5+ years of programming experience
 * 📚 Studying Computer Science, graduating 2028
 
 <!--
