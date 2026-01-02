@@ -1,6 +1,6 @@
 ## About Me
-* 📈 5+ years of programming experience
-* 📚 Studying Computer Science, graduating 2028
+* 📈 5+ years of experience
+* 📚 Studying Computer Science
 
 <!--
 **Jamescorino8/jamescorino8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
