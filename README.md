@@ -1,5 +1,5 @@
 ## About Me
-* 📈 5+ years of experience
+* 📈 6+ years of experience
 * 📚 Studying Computer Science
 
 <!--
