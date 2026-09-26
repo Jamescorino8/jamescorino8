@@ -1,19 +1,7 @@
-## About Me
-* College student
-* Occasionally smart
-* Lover of coffee
-
-<!--
-**Jamescorino8/jamescorino8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## who am i?
+* hi, im james.
+* 21 yo.
+* bs/ms cs @ ualbany.
+* spent summer '26 at skku in korea.
+* did research @ skku infolab.
+* looking for summer '27 internships.
